@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© Matthew Durán 2023'
     license:
       enable: true
       allow_derivatives: false
