@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Matthew Durán 2023'
+    notice: '© Matthew Durán 2023 Test'
     license:
       enable: true
       allow_derivatives: false
